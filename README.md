@@ -1,5 +1,6 @@
 내 vue-till api server
 node v10 추천
+npm run dev
 mongoDB 연결계정 2runman.work@gmail.com(구글)
 ---
 
